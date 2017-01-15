@@ -25,16 +25,18 @@ At the end of this stage you should be able to sketch your idea and have ideas n
 6. show sketch to another group
 
 #### Build the Vehicle Platform
-It should roll freely at least two meters after a light push or roll down a ramp
+It should move (roll, float, fly) freely at least two meters after a light push
 
-1. 
+1. fghjk
 
 #### Build on Self-Powered Movement
 At the end of this phase your vehicle should roll freely at least two meters without any human energy input (no push allowed).
 
-1.
+1. dfghj
 
 #### Demo to another group
+1. Demo to another group(s) of students
+2. Adopt at least one idea (and credit it blog).
 
 #### Create a Product webpage (in your Organization website)
 
