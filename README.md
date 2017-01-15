@@ -1,4 +1,4 @@
-# self-powered-vehicle
+# self-powered-vehicle Insgtructions
 
 ## Mission
 You have been hired by a children's aid society to put together a self-powered vehicle from used or easy to find parts that can be found anywhere in the world. They want to see a prototype and they want to make sure it will travel at least 2 meters and *carries a seated lego person passenger*. Once your project is complete they will give your product to less fortunate children.  Ideally your product will be easy to fix - so they can build and repair their own toys and develop some engineering skills in the process.
