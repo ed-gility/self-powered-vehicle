@@ -55,6 +55,12 @@ At the end of this phase your vehicle should roll freely at least two meters wit
 4. Attach propulsion to vehicle & TEST
 5. **Demo** to other groups and get ideas for adjustments
 
+### Finishing Touches
+1. Be sure your product is attractive
+2. Be sure your product has your logo on it
+3. Be sure your procuct has a windshield
+4. Be sure your product has a seated location (behind the windsheild) for a lego character.
+
 ### Create a Product webpage (in your Organization website)
 1. copy the file **self-powered-vehicle.html** into your Organization's website
 2. attach a photo or video of your projects
