@@ -1,7 +1,7 @@
 # self-powered-vehicle
 
 ## Mission
-You have been hired by a children's aid society to put together a self-powered vehicle from used or easy to find parts that can be found anywhere in the world. They want to see a prototype and they want to make sure it will travel at least 2 meters. Once your project is complete they will give your product to less fortunate children.  Ideally your product will be easy to fix - so they can build and repair their own toys and develop some engineering skills in the process.
+You have been hired by a children's aid society to put together a self-powered vehicle from used or easy to find parts that can be found anywhere in the world. They want to see a prototype and they want to make sure it will travel at least 2 meters and *carries a seated lego person passenger*. Once your project is complete they will give your product to less fortunate children.  Ideally your product will be easy to fix - so they can build and repair their own toys and develop some engineering skills in the process.
 
 ## Technologies to Learn / Practice
 * **Stored Engineering** - how to store energy that can be used later
@@ -40,19 +40,35 @@ At the end of this stage you should be able to sketch your idea and have ideas n
 ### Build the Vehicle Platform
 It should move (roll, float, fly) freely at least two meters after a light push
 
-1. fghjk
+1. Create the Chassis *(front, rear, seating for Lego person & windshield)*.
+2. Create the axels and wheels (assuming a rolling ground vehicle) -- *balast and keel for boats, wings and tail for fligth, etc.*
+3. Attach wheels (or the guidance system, keel, wings, etc)
+4. **Test** - Be sure the system glides two meters given only minimal thrust.
+5. **Demo** to other groups and get ideas for adjustments
 
 ### Build on Self-Powered Movement
 At the end of this phase your vehicle should roll freely at least two meters without any human energy input (no push allowed).
 
-1. dfghj
-
-### Demo to another group
-1. Demo to another group(s) of students
-2. Adopt at least one idea (and credit it blog).
+1. build propulsion system - Fan, Propellor, etc
+2. build energy transfer system - rubberband power, batter/motor, etc.
+3. Assemble and test that propulsion system delivers energy (including in the correct direction)
+4. Attach propulsion to vehicle & TEST
+5. **Demo** to other groups and get ideas for adjustments
 
 ### Create a Product webpage (in your Organization website)
+1. copy the file **self-powered-vehicle.html** into your Organization's website
+2. attach a photo or video of your projects
+3. give a description of your project
+4. link this new webpage into your **Products** section of your organiation's homepage **index.html**
+5. **Demo** this product page to other groups and get ideas for adjustments
 
 ### Create a Product blog (in your Organization website)
+1. copy the file **self-powered-vehicle-blog.html** into your organization's website
+2. write the **Product Fit** description
+3. Write the **Acknowledge** section to honor those who helped you
+4. Write the **Ideas to go further** section
+5. Write the **Technologies Learned** section
+6. Link this new blog to the **Blog** section of your organiation's homepage **index.html**
+7. **Demo** this product page to other groups and get ideas for adjustments
 
 ### Present to Angle Investors
