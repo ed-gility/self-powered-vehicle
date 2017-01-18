@@ -1,7 +1,7 @@
 # self-powered-vehicle Instructions
 
 ## Mission
-You have been hired by a children's aid society to put together a self-powered vehicle from used or easy to find parts that can be found anywhere in the world. They want to see a prototype and they want to make sure it will travel at least 2 meters and *carries a seated lego person passenger*. Once your project is complete they will give your product to less fortunate children.  Ideally your product will be easy to fix - so they can build and repair their own toys and develop some engineering skills in the process.
+You have been hired by a children's aid society to put together a self-powered vehicle from used or easy to find parts that can be found anywhere in the world. They want to see a prototype and they want to make sure it will travel at least 2 meters. Once your project is complete they will give your product to less fortunate children.  Ideally your product will be easy to fix - so they can build and repair their own toys and develop some engineering skills in the process.
 
 ## Technologies to Learn / Practice
 * **Stored Engineering** - how to store energy that can be used later
@@ -59,7 +59,7 @@ At the end of this phase your vehicle should roll freely at least two meters wit
 1. Be sure your product is attractive
 2. Be sure your product has your logo on it
 3. Be sure your procuct has a windshield
-4. Be sure your product has a seated location (behind the windsheild) for a lego character.
+4. OPTIONAL - your product has a seated location (behind the windsheild) for a lego character.
 
 ### Create a Product webpage (in your Organization website)
 1. copy the file **self-powered-vehicle.html** into your Organization's website
